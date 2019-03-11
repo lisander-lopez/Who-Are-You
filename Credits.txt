@@ -1,0 +1,11 @@
+Add Images to current Webcam feed:
+https://www.geeksforgeeks.org/image-processing-java-set-9-face-detection/
+
+App Starter Template:
+https://github.com/sarxos/webcam-capture/tree/master/webcam-capture-examples/webcam-capture-javafx
+
+ImageUtils:
+https://stackoverflow.com/questions/14958643/converting-bufferedimage-to-mat-in-opencv
+
+API to guess ethnicity:
+https://clarifai.com
